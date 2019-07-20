@@ -1,4 +1,7 @@
 # Sudoku Solver and Problem Generator using MiniSAT #
+
+Authors: Durgesh Agrawal, Harsh Agarwal
+
 Language: Python
 
 How to build:
